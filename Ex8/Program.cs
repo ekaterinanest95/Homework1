@@ -1,4 +1,4 @@
-﻿    Console.Write("Введите чило N: ");
+﻿    Console.Write("Введите чиcло N: ");
     int numberN = Convert.ToInt32(Console.ReadLine());
     int count = 1;
 
